@@ -1,0 +1,5 @@
+files= ./mydev\ ./onemore\ ./plant\ ./rfchki\ ./ripplaiz\ autorun.inf mofart.bat ./bin\ ./enterprise\ ./legacy\ ./magi\ ./musika\ ./useit\ guarded.jpg zetupka ./cxxdev\ ./pydev\ nokit.html README 
+mezto= ze.diska 
+
+files= setenv.bat 
+mezto= D:bin/ 
