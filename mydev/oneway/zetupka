@@ -1,0 +1,8 @@
+files=  
+mezto= d:/mydev/oneway/ 
+EE
+files= oneway.bat 
+mezto= d:bin/ 
+EE
+3
+ OneWay.class OneWay.java zetupka
