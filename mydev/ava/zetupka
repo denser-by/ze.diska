@@ -1,0 +1,8 @@
+files=  
+mezto= d:/mydev/ava/ 
+EE
+files= ava.bat 
+mezto= d:bin/ 
+EE
+23
+ Actor.class ava.bat Ava.class Ava.java ava_fog_.slip CachedImageLoader.class cava.bat ChosenOne.class ImageLoader.class Item.class Kartinko.class Norma.class Path.class PathFinder.class PhotoPath.class PhotoPathFinder.class PlanaSpectra.class RND.class Scene.class Shaft.class Squares.class WinterNoise.class zetupka
