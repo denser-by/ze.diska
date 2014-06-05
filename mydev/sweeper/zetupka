@@ -1,0 +1,8 @@
+files=  
+mezto= d:/mydev/sweep/ 
+EE
+files= sweep.bat 
+mezto= d:bin/ 
+EE
+4
+ Sweeper.class Sweeper.java sweepp.bat zetupka
