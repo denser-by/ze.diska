@@ -1,0 +1,5 @@
+files= Builder.class Context.class ex.bat kkk MyFrame.class MyPanel.class MyTextArea.class MyThread.class MyThreadX.class Sample.class Sample.java zetupka
+mezto= g:/mydev/ex/ 
+
+files= ex.bat 
+mezto= g:/bin/ 
