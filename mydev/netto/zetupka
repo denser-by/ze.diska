@@ -1,0 +1,5 @@
+files= Capturer.class Cell.class ClickaBlja.class DrawaBlja.class Kljuvik.class MyWnd.class netto.bat Netto.class netto.csv Netto.java Pushshi.class Square.class Stopper.class zetupka 
+mezto= H:/mydev/netto/ 
+
+files= netto.bat 
+mezto= H:/bin/ 
