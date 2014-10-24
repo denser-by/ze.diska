@@ -1,0 +1,5 @@
+files= ArchEchoIT.class ArchEchoIT.java architecho.bat Border.class ItFrame.class ItObjName.class Modest.class MoveBorderEvent.class MyCursor.class MyItObject.class Shooter.class zetupka 
+mezto= E:/mydev/architecho/ 
+
+files= architecho.bat 
+mezto= E:/bin/ 
