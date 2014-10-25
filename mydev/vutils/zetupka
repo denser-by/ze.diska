@@ -1,8 +1,8 @@
 files=  
-mezto= d:/mydev// 
+mezto= E:/mydev// 
 EE
 files= .bat 
-mezto= d:bin/ 
+mezto= E:bin/ 
 EE
-19
- Ask.class Ask.java Ester.class Ester.java Files.class Files.java Filter.class Filter.java Join.class Join.java Karta.class Karta.java S.class S.java Spiska.class Spiska.java Time.class Time.java zetupka
+21
+ Ask.class Ask.java Ester.class Ester.java Files.class Files.java Filter.class Filter.java Join.class Join.java Karta.class Karta.java Metr.class Metr.java S.class S.java Spiska.class Spiska.java Time.class Time.java zetupka
