@@ -1,14 +1,5 @@
-files=  
-mezto= d:/mydev/lezka/ 
-EE
+files= lezka.bat LezKa.class LezKa.java MyBuf.class zetupka 
+mezto= F:/mydev/lezka/ 
+
 files= lezka.bat 
-mezto= d:bin/ 
-EE
-5
- lezka.bat LezKa.class LezKa.java MyBuf.class zetupka
-5
- lezka.bat ... 132 baytouvz :)
- LezKa.class ... 3,112 baytouvz :)
- LezKa.java ... 4,540 baytouvz :)
- MyBuf.class ... 1,885 baytouvz :)
- zetupka ... 139 baytouvz :)
+mezto= F:/bin/
