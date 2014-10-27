@@ -1,0 +1,62 @@
+12121212121212121212121212121212121212121212121212121212121212121212121212121212
+12121212121212121212121212121212121212121212121212121212121212121212121212121212
+121212121212121212121212121212121212121212121212
+Full thread dump:
+    "Thread-2" (TID:0x1623d90, sys_thread_t:0x96547c, Win32ID:0x3c8, state:RUNNA
+BLE) prio=5
+        java.io.FileInputStream.read(FileInputStream.java:123)
+        java.io.BufferedInputStream.fill(BufferedInputStream.java:107)
+        java.io.BufferedInputStream.read(BufferedInputStream.java:121)
+        mydev.rs.Eskeypar.run(RunnnerS.java:1)
+        java.lang.Thread.run(Thread.java:294)
+    "Thread-1" (TID:0x1623d08, sys_thread_t:0x962540, Win32ID:0x3cc, state:RUNNA
+BLE) prio=5
+        sun.awt.ScreenUpdater.notify(ScreenUpdater.java:125)
+        sun.awt.win32.MComponentPeer.repaint(MComponentPeer.java:142)
+        java.awt.Component.repaint(Component.java:650)
+        java.awt.Component.repaint(Component.java:611)
+        mydev.rs.Watcher.run(RunnnerS.java:1)
+        java.lang.Thread.run(Thread.java:294)
+    "Screen Updater" (TID:0x1623c98, sys_thread_t:0x95a564, Win32ID:0x34c, state
+:MONITOR_WAIT) prio=5
+        sun.awt.ScreenUpdater.nextEntry(ScreenUpdater.java:78)
+        sun.awt.ScreenUpdater.run(ScreenUpdater.java:95)
+    "AWT-Callback-Win32" (TID:0x1623ab8, sys_thread_t:0x943c8c, Win32ID:0x398, s
+tate:RUNNABLE) prio=5
+        sun.awt.win32.MToolkit.run(MToolkit.java:66)
+        java.lang.Thread.run(Thread.java:294)
+    "AWT-Win32" (TID:0x1623a10, sys_thread_t:0x9387a4, Win32ID:0x394, state:RUNN
+ABLE) prio=5
+        sun.awt.win32.MToolkit.run(MToolkit.java:64)
+        java.lang.Thread.run(Thread.java:294)
+    "Finalizer thread" (TID:0x16231f8, sys_thread_t:0x91e720, Win32ID:0x384, sta
+te:CONDVAR_WAIT) prio=2
+    "main" (TID:0x16230a0, sys_thread_t:0x90e610, Win32ID:0x370, state:MONITOR_W
+AIT) prio=5
+        mydev.rs.RunnnerS.main(RunnnerS.java:1)
+Monitor Cache Dump:
+    unknown key (key=0x90e610): "main"
+    unknown key (key=0x8fbdc8): <unowned>
+    unknown key (key=0x8f95c0): <unowned>
+    unknown key (key=0x90dae0): <unowned>
+    unknown key (key=0x8fa210): <unowned>
+    java.io.BufferedInputStream@1623118/16BCCE8 (key=0x1623118): "Thread-2"
+    sun.awt.ScreenUpdater@1623C98/16BFE88 (key=0x1623c98): "Screen Updater"
+    unknown key (key=0x901c38): <unowned>
+    unknown key (key=0x8f8ea8): <unowned>
+    unknown key (key=0x8f8ba8): <unowned>
+    unknown key (key=0x8fa62c): <unowned>
+    unknown key (key=0x8fa9ac): <unowned>
+Registered Monitor Dump:
+    Finalize me queue lock: <unowned>
+        waiters = 1
+    Thread queue lock: <unowned>
+    Class lock: <unowned>
+    Java stack lock: <unowned>
+    Code rewrite lock: <unowned>
+    Heap lock: <unowned>
+    Has finalization queue lock: <unowned>
+    Monitor cache lock: "Thread-1"
+    Monitor registry: <unowned>
+12121212121212121212121212121212121212121212121212121212121212121212121212121212
+12121212122121211221212121212121212121212121212121122121212121212121212121212121
