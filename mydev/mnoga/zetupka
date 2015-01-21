@@ -1,0 +1,5 @@
+files= Help.class IntBytes.class Load.class Load.java MyNote.class Oak.class Save.class Save.java StrBytes.class Tree.class zetupka 
+mezto= H:/mydev/mnoga/ 
+
+files= mnoga_load.bat mnoga_save.bat 
+mezto= H:/bin/ 
