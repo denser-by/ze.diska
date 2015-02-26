@@ -1,0 +1,2 @@
+files= build.bat entry.bat Entry.c Entry.class Entry.h Entry.java libMyEntry.so MyEntry-i586.dll MyEntry.dll test.bat TTT.java zetupka 
+mezto= d:/mydev/entry 
