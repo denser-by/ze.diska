@@ -1,0 +1,5 @@
+files= doska.bat Doska.class Doska.java Doska.java.orig DoskaPanel.class DoskaUpdater.class Doto.class EmergencyRoll.class Faktor.class Figure.class Goto.class GraphX.class INFO Linear.class Mode.class ModeChoose.class ModeCircle.class ModeDelete.class ModeLine.class ModePoint.class ModeSquare.class NotyFier.class OracleMiracle.class Piece.class Position.class Posizionie.class PyMath.class PyMathMiracle.class PyMathMiracleCircle.class PyMathMiracleLine.class PyMathMiracleSquare.class RefreshHolder.class Tosichek.class Way.class zetupka 
+mezto= F:/mydev/doska/ 
+
+files= doska.bat 
+mezto= F:/bin/ 
