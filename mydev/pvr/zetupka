@@ -1,0 +1,5 @@
+files= HiDen.class INFO Mif.class MyActionsDlg.class MyAppCtx.class MyCanvas.class MyCharacter.class MyExitDlg.class MyScBar.class MyString.class MyTextReader.class pvr.bat PvrLunch.class PvrLunch.java zetupka 
+mezto= E:/mydev/pvr/ 
+
+files= pvr.bat 
+mezto= E:/bin/ 
