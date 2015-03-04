@@ -1,0 +1,5 @@
+files= Obj.java Utils.class SmarticleType.class Recognitor.class Smarticle.class Obj.class plain.bat INFO zetupka 
+mezto= F:/mydev/plain/ 
+
+files= plain.bat 
+mezto= F:/bin/ 
