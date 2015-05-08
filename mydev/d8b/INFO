@@ -1,0 +1,3 @@
+Project: d8b talented
+Description: 30 seconds for memory management, persists some data into file mybits.d8b, inverts memory items into specified columns and rows
+Controls: mouse pointer, auto-close on timeout
