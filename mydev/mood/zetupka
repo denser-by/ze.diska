@@ -1,0 +1,5 @@
+files= SeeNek.java MyCanvas.class SeeNek.class NskConsumer.class make.cmd zetupka less.bat 
+mezto= F:/mydev/mood/ 
+
+files= less.bat 
+mezto= F:/bin/ 
