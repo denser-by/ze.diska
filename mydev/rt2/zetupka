@@ -1,0 +1,5 @@
+files= RtTwo.java zetupka rt2.bat RtTwo.java_cp OpenDelegate.class ShowSecondDelegate.class MainCanvas.class NskConsumer.class ShowFirstDelegate.class RtTwo.class SecondaryPanel.class RtTwoFrame.class ShowFifthDelegate.class ShowFourthDelegate.class ImgBox.class ShowThirdDelegate.class 
+mezto= F:/mydev/rt2/ 
+
+files= rt2.bat 
+mezto= F:/bin/ 
