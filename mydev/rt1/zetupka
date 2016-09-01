@@ -1,0 +1,5 @@
+files= RtOne.java NskConsumer.class CnvResult.class CnvInput.class RtOne.class Comparer.class PanelStart.class ImageSelector.class rt1.bat zetupka 
+mezto= F:/mydev/rt1/ 
+
+files= rt1.bat 
+mezto= F:/bin/ 
