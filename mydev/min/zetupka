@@ -1,0 +1,5 @@
+files= Select.java min.bat Extract.class Select.class LeftItem.class MainFrame.class CenterItem.class zetupka 
+mezto= F:/mydev/min/ 
+
+files= min.bat 
+mezto= F:/bin/ 
