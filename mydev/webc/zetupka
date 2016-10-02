@@ -1,0 +1,6 @@
+files= WebClient.java zetupka webc.bat LeftPanel.class MyCnv.class RequestPanel.class StatsPanel.class CenterPanel.class ExpectPanel.class WebClient.class Predef.class 
+mezto= F:/mydev/webc/ 
+
+files= webc.bat 
+mezto= F:/bin/ 
+
