@@ -1,0 +1,5 @@
+files= WebStart.java WebStart.class StatsPanel.class MyCnv.class ControlsPanel.class Predef.class web.bat zetupka 
+mezto= F:/mydev/wb1/ 
+
+files= web.bat 
+mezto= F:/bin/ 
