@@ -1,0 +1,5 @@
+files= LocalServer.class TemporaryView.class Totalic.java ContactList.class ContactsView.class zetupka total.bat ServerPanel.class MessageProcessor.class Connection.class MiniFrame.class PublishingPanel.class Replacer.class Reviewer.class LocalNotifications.class EditField.class Talking.class Totalic.class ConnecterPanel.class OptionsField.class MsgParser.class ClientRecord.class ObservableItem.class 
+mezto= F:/mydev/oki/ 
+
+files= total.bat 
+mezto= F:/bin/ 
