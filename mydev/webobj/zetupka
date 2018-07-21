@@ -1,0 +1,2 @@
+files= Extractor.class Extractor.java Image.class Image.java ImageSet.class ImageSet.java ParseException.class ParseException.java Parser.class Parser.java ParserTest.class ParserTest.java QueryEncode.class QueryEncode.java RequestException.class RequestException.java WebObjectsParser.class WebObjectsParser.java zetupka 
+mezto= F:/mydev/webobj/ 
