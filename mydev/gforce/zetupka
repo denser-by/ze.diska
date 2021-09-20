@@ -1,0 +1,5 @@
+files= ActiveHolder.class BeerRepairPanel.class BitmapData.class CanvasX.class ColorAgr.class Cube3D.class CubeMeasures.class CubeType.class CurPtr.class DarknessSource.class Dim3D.class Dis.class DrawHelper.class gal.cmd Gallery.class Gallery.java InspirationSource.class InstallationSource.class LightM.class LogCat.class MouseClickEvent.class MouseMoveEvent.class MouseStory.class Moving.class Picture.class Pika.class Pos3D.class Presska.class Rect.class RedisKa.class Refresher.class Results.class ResultsCube.class ResultsLight.class ResultsOxyz.class Scene3D.class Settings.class SqProj.class ThirdLawSource.class TransparencyProfile.class TreeSource.class Ut.class View3D$1.class View3D.class zetupka 
+mezto= E:/mydev/gforce/ 
+
+files= gal.cmd 
+mezto= E:/bin/ 
