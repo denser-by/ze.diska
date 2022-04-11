@@ -1,8 +1,5 @@
-files=  
-mezto= C:/dev/mydev/pb/ 
-EE
-files= pb.bat 
-mezto= c:/dev/bin/ 
-EE
+files= AddItemRec.class AutoButtonFrame.class AvgPanel.class BackupAllLeftTask.class BcController.class Command.class CommandQueue.class Data6.class EraseAllRightTask.class FetchImageParty.class ImageBackupConsumer.class ImageBackupPreviewCanvas.class ImageFile.class ImageFileException.class ImageParty.class ImageWriter.class IntegrateAllRightTask.class IntegrationRequest.class IntegrationSaveRequest.class Itor.class Itor.java LeftBackupIntegratePanel.class LeftBackupPanel.class LeftPanel.class LogPanel.class ParserAdapter.class PathPanel.class pb.bat Props.class ReloadRequest.class RightDeletePanel.class RightDelViewPanel.class RightPanel.class Scan.class ScanLeft.class ScanRight.class SidePanel.class SizeAvgPanel.class SizePanel.class StatPanel.class ViewAllRightTask.class WorkingHolder.class WriteJobs.class zetupka 
+mezto= D:/mydev/pb/ 
 
-BackupAllLeftTask.class BcController.class EraseAllRightTask.class FetchImageParty.class ImageBackupConsumer.class ImageBackupPreviewCanvas.class ImageFile.class ImageFileException.class ImageParty.class ImageWriter.class Itor.class Itor.java LeftBackupIntegratePanel.class LeftBackupPanel.class LeftPanel.class LogPanel.class ParserAdapter.class PathPanel.class pb.bat ReloadRequest.class RightDeletePanel.class RightDelViewPanel.class RightPanel.class Scan.class ScanLeft.class ScanRight.class SizePanel.class StatPanel.class ViewAllRightTask.class WorkingHolder.class WriteJobs.class zetupka 
+files= pb.bat 
+mezto= D:/bin/ 
