@@ -1,4 +1,5 @@
-files= IgnorStatPanel.class LeftOneLineSavePanel.class LeftPanel.class LeftSizeSavePanel.class LogPanel.class olin.cmd OneLine.class OneLine.java PathPanel.class ScanLeft.class SizePanel.class StatPanel.class WorkingHolder.class zetupka 
-mezto= E:/mydev/olin/ 
+files= AutoButtonFrame.class IgnorStatPanel.class LeftOneLineSavePanel.class LeftPanel.class LeftSizeSavePanel.class LogPanel.class olin.cmd OneLine.class OneLine.java PathPanel.class Props.class ScanLeft.class SizePanel.class StatPanel.class WorkingHolder.class zetupka 
+mezto= D:/mydev/olin/ 
 
- 
+files= olin.bat 
+mezto= D:/bin/ 
