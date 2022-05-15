@@ -1,8 +1,5 @@
-files= ActiveHolder.class BeerRepairPanel.class BitmapData.class CanvasX.class ColorAgr.class Cube3D.class CubeMeasures.class CubeType.class CurPtr.class DarknessSource.class Dim3D.class Dis.class DrawHelper.class Gallery.class Gallery.java gforce.bat InspirationSource.class InstallationSource.class LightM.class LogCat.class MouseClickEvent.class MouseMoveEvent.class MouseStory.class Moving.class Picture.class Pika.class Pos3D.class Presska.class Rect.class RedisKa.class Refresher.class Results.class ResultsCube.class ResultsLight.class ResultsOxyz.class Scene3D.class Settings.class SqProj.class ThirdLawSource.class TransparencyProfile.class TreeSource.class Ut.class View3D.class WorkingHolder.class zetupka 
-mezto= E:/mydev/gforce/ 
+files= ActiveHolder.class ActivePro.class Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class BeerRepairPanel.class BitmapData.class CanvasX.class ColorAgr.class Cube3D.class CubeMeasures.class CubeType.class CurPtr.class DarknessSource.class Dim3D.class Dis.class DrawHelper.class FictionSource.class Gallery.class Gallery.java gforce.bat InspirationSource.class InstallationSource.class LightM.class LogCat.class Logo.class MouseClickEvent.class MouseMoveEvent.class MouseStory.class Moving.class PathPanel.class Picture.class Pika.class Pos3D.class PosessingSource.class Presska.class Props.class Rect.class RedisKa.class Refresher.class Results.class ResultsCube.class ResultsLight.class ResultsOxyz.class RhymeSource.class Scene3D.class Settings.class SqProj.class ThirdLawSource.class TransparencyProfile.class TreeSource.class Ut.class View3D.class WorkingHolder.class zetupka 
+mezto= D:/mydev/gforce/ 
 
 files= gforce.bat 
-mezto= E:/bin/ 
-
-
- 
+mezto= D:/bin/ 
