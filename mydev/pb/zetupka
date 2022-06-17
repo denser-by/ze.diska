@@ -1,5 +1,5 @@
 files= AddItemRec.class Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class AutoButtonFrame.class AvgPanel.class BackupAllLeftTask.class BcController.class Command.class CommandExecutionTask.class CommandQueue.class Data6.class EraseAllRightTask.class FetchImageParty.class ImageBackupConsumer.class ImageBackupPreviewCanvas.class ImageFile.class ImageFileException.class ImageParty.class ImageWriter.class IntegrateAllRightTask.class IntegrationRequest.class IntegrationSaveRequest.class Itor.class Itor.java LeftBackupIntegratePanel.class LeftBackupPanel.class LeftPanel.class LeftSelectActivity.class Logging.class LogItem.class Logo.class LogPanel.class MultyMap.class OnceFetchImageParty.class ParserAdapter.class ParserAdapter2.class PathPanel.class pb.bat Props.class ReloadRequest.class RightDeletePanel.class RightDelViewPanel.class RightIntegrateActivity.class RightPanel.class RightSelectActivity.class Scan.class ScanLeft.class ScanRight.class SidePanel.class SidePanelActivity.class SizeAvgPanel.class SizePanel.class StatPanel.class ViewAllRightTask.class WorkingHolder.class WriteJobs.class zetupka 
-mezto= D:/mydev/pb/ 
+mezto= E:/mydev/pb/ 
 
 files= pb.bat 
-mezto= D:/bin/ 
+mezto= E:/bin/ 
