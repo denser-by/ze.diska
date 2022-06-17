@@ -1,5 +1,5 @@
-files= Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class AutoButtonFrame.class AvgPanel.class Chka.class Chka.java Command.class CommandProcess.class CommandQueue.class CommandRead.class FullPathSplit.class LeftConfLunchPanel.class LeftConfSavePanel.class LeftPanel.class Logo.class LogPanel.class MegaAverageRec.class Orderer.class PanelAg.class PathPanel.class Props.class PubClsFind.class QuadeParallelPanel.class ReadyFreeHolder.class RightBtnPanel.class RightTask.class RightTasksPanel.class ScanLeft.class SizeAvgPanel.class SizePanel.class SourceNamePanel.class SourcePanel.class SourceProcessor.class StatPanel.class TotalPanel.class WorkingHolder.class zetupka zhoo.bat 
-mezto= D:/mydev/zhoo/ 
+files= Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class AutoButtonFrame.class AvgPanel.class Chka.class Chka.java Command.class CommandProcess.class CommandQueue.class CommandRead.class DuoButton.class FullPathSplit.class IgnorStatPanel.class LeftConfLunchPanel.class LeftConfSavePanel.class LeftPanel.class Logo.class LogPanel.class LongTermCtrl.class MegaAverageRec.class Orderer.class PanelAg.class PathPanel.class Props.class PubClsFind.class QuadeParallelPanel.class ReadyFreeHolder.class RightBtnPanel.class RightTask.class RightTasksPanel.class ScanLeft.class SizeAvgPanel.class SizePanel.class SourceNamePanel.class SourcePanel.class SourceProcessor.class StatPanel.class TotalPanel.class WorkingHolder.class zetupka zhoo.bat 
+mezto= E:/mydev/zhoo/ 
 
 files= zhoo.bat 
-mezto= D:/bin/ 
+mezto= E:/bin/ 
