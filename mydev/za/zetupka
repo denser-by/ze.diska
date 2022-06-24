@@ -1,5 +1,5 @@
 files= Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class AutoButtonFrame.class AvgPanel.class Command.class CommandProcess.class CommandQueue.class CommandRead.class CommandSave.class EELineRule.class LeftOneLineSavePanel.class LeftPanel.class LeftSizeSavePanel.class LineType.class Logo.class LogPanel.class LongTermCtrl.class MegaAverageRec.class Mutil.class Mutil.java PathPanel.class Props.class QuadeParallelPanel.class ReadyFreeHolder.class ReduceEmptiesRule.class RemoveDoubleVutilsRule.class RemoveLastEmptyRule.class ScanLeft.class SizeAvgPanel.class SizePanel.class SourceNamePanel.class SourcePanel.class SourceProcessor.class StatPanel.class WhiteLabel.class WorkingHolder.class za.bat ZeroFilesRule.class ZetUpBurner.class zetupka Zetupka.class Zetupka.java ZetupkaLine.class ZetupkaPanel.class ZetupkaTransformRule.class 
-mezto= E:/mydev/za/ 
+mezto= D:/mydev/za/ 
 
 files= za.bat 
-mezto= E:/bin/ 
+mezto= D:/bin/ 
