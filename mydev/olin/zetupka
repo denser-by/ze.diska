@@ -1,5 +1,5 @@
-files= Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class AutoButtonFrame.class AvgPanel.class Command.class CommandProcess.class CommandQueue.class CommandRead.class CommandSave.class GrayLabel.class IgnorStatPanel.class LeftOneLineSavePanel.class LeftPanel.class LeftSizeSavePanel.class LimStats.class Logo.class LogPanel.class LongTermCtrl.class MegaAverageRec.class olin.bat olin.cmd OneLine.class OneLine.java PathPanel.class Props.class QuadeButton.class QuadeParallelPanel.class ReadyFreeHolder.class ScanLeft.class SizeAvgPanel.class SizePanel.class SourcePanel.class SourceProcessor.class StatPanel.class WorkingHolder.class zetupka 
-mezto= E:/mydev/olin/ 
+files= Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class AutoButtonFrame.class AvgPanel.class Command.class CommandProcess.class CommandQueue.class CommandRead.class CommandSave.class GrayLabel.class IgnorStatPanel.class LeftOneLineSavePanel.class LeftPanel.class LeftSizeSavePanel.class LimStats.class Logo.class LogPanel.class LongTermCtrl.class MegaAverageRec.class olin.bat OneLine.class OneLine.java PathPanel.class Props.class QuadeButton.class QuadeParallelPanel.class ReadyFreeHolder.class ScanLeft.class SizeAvgPanel.class SizePanel.class SourcePanel.class SourceProcessor.class StatPanel.class WorkingHolder.class zetupka 
+mezto= D:/mydev/olin/ 
 
 files= olin.bat 
-mezto= E:/bin/ 
+mezto= D:/bin/ 
