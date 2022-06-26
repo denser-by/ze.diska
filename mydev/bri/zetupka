@@ -1,0 +1,5 @@
+files= Animation.class AnimationFrame.class AnimationFrameFirst.class AnimationFrameSecond.class AutoButtonFrame.class AvgPanel.class bri.bat Command.class CommandProcess.class CommandQueue.class CommandRead.class DuoButton.class FullPathSplit.class IgnorStatPanel.class LeftConfLunchPanel.class LeftConfSavePanel.class LeftPanel.class Logo.class LogPanel.class LongTermCtrl.class MegaAverageRec.class NameItem.class Orderer.class PanelAg.class PathPanel.class PkgClsFind.class PkgClsPanel.class Props.class QuadeParallelPanel.class ReadyFreeHolder.class RightBtnPanel.class RightOrder.class RightPanel.class ScanLeft.class SizeAvgPanel.class SizePanel.class SourceNamePanel.class SourcePanel.class SourceProcessor.class StatPanel.class Tina.class Tina.java WorkingHolder.class zetupka 
+mezto= D:/mydev/bri/ 
+
+files= bri.bat 
+mezto= D:/bin/ 
