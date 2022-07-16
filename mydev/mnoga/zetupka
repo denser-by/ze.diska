@@ -1,5 +1,5 @@
-files= Help.class IntBytes.class Load.class Load.java MyNote.class Oak.class Save.class Save.java StrBytes.class Tree.class zetupka 
-mezto= H:/mydev/mnoga/ 
+files= AcceptRejectPanel.class AvgMintPanel.class DeleteAsk.class Help.class IntBytes.class LeftMintPanel.class LeftPackBtnPanel.class Load.class Load.java LoadSave.class LoadSave.java Logo.class LongTermMnogaCtrl.class Mint.class Mint.java MintAutoConf.class MintCommandQueue.class MintInfoPanel.class MintLeftSizePackPanel.class MintLogging.class MintLogItem.class MintLogPanel.class MintPathPanel.class MintProjEstimation.class MintProjItem.class MintRightSizeUnpackPanel.class MintSizeAvgPanel.class mnoga.bat MnogaAnimation.class MnogaAnimationFrame.class MnogaAnimationFrameFirst.class MnogaAnimationFrameSecond.class MnogaCommand.class mnoga_load.bat mnoga_save.bat MoorFeePteachErr.class MyNote.class Oak.class PackAllMnogaCommand.class PackMnogaCommand.class ProjAverageRec.class ProjNamePanel.class ProjParallelPanel.class ProjProcessor.class Props.class ReadBackupMnogaCommand.class ReadMnogaCommand.class ReadyFreeMnogaHolder.class RightMintPanel.class RightUnpackBtnPanel.class Save.class Save.java ScanProjLeft.class ScanProjRight.class SizeMintPanel.class StatMintPanel.class StrBytes.class Tree.class UnpackMnogaCommand.class WorkingMnogaHolder.class zetupka 
+mezto= D:/mydev/mnoga/ 
 
-files= mnoga_load.bat mnoga_save.bat 
-mezto= H:/bin/ 
+files= mnoga.bat 
+mezto= D:/bin/ 
