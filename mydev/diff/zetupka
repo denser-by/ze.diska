@@ -1,2 +1,5 @@
-files= Diff.class Diff.java FirstFile.class FlatPanel.class LeftNumbers.class LeftPanel.class LeftText.class LeftTop.class LineOfCode.class LoadProc.class RightNumbers.class RightPanel.class RightText.class RightTop.class TextPanel.class TopPanel.class zetupka 
-mezto= e:/mydev/diff/ 
+files= diff.bat Diff.class Diff.java DiffAnimation.class DiffAnimationFrame.class DiffAnimationFrameFirst.class DiffAnimationFrameSecond.class DiffLogging.class DiffLogItem.class DiffLogPanel.class DiffTopPanel.class FirstFile.class FlatPanel.class LeftNumbers.class LeftText.class LeftTop.class LineOfCode.class LoadProc.class Logo.class Props.class RightNumbers.class RightText.class RightTop.class TextLeftPanel.class TextPanel.class TextRightPanel.class WorkingDiffHolder.class zetupka 
+mezto= D:/mydev/diff/ 
+
+files= diff.bat 
+mezto= D:/bin/ 
