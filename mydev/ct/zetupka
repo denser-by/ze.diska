@@ -1,0 +1,5 @@
+files= CheckItem.class ct.bat Project.class Project.java ThreadLunch.class Words.class zetupka 
+mezto= D:/mydev/ct/ 
+
+files= ct.bat 
+mezto= D:/bin/ 
