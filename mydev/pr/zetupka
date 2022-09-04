@@ -1,0 +1,5 @@
+files= pricol.bat Pricol.class Pricol.java zetupka 
+mezto= F:/mydev/pricol/ 
+
+files= pricol.bat 
+mezto= F:/bin/ 
