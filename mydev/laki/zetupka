@@ -1,8 +1,0 @@
-files=  
-mezto= d:/mydev/laki/ 
-EE
-files= laki.bat 
-mezto= d:bin/ 
-EE
-6
- laki.bat laki.output lakii.bat LowPrime.class LowPrime.java zetupka

@@ -1,8 +1,0 @@
-files= AbstractWindow.class BgWindow.class BgWindowFrame.class Current.class Design.class ImageFile.class ImageFileException.class ImageItem.class ImageProvessor.class ImageProxy.class ImageWrap.class Mode.class NormalWindow.class ParserAdapter.class Review.class Review.java Review2.class rv.bat WindowProvider.class WorkingHolder.class zetupka 
-mezto= E:/mydev/rv/ 
-
-files= rv.bat 
-mezto= E:/bin/ 
-
-
- 
