@@ -1,0 +1,5 @@
+files= AbstractPanel.class AbstractPanel.java AbstractPanelProvider.class AbstractPanelProvider.java AbstractParallelPanel.class AbstractParallelPanel.java AmountPanel.class AmountPanel.java AveragePanel.class AveragePanel.java CommonPathPanel.class CommonPathPanel.java ControlsPanel.class ControlsPanel.java SizePanel.class SizePanel.java ToogleMultyButton.class ToogleMultyButton.java YellowAutoButton.class YellowAutoButton.java zetupka 
+mezto= D:/mydev/uix/ 
+
+files= uix.bat 
+mezto= D:/bin/ 
