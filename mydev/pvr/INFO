@@ -1,0 +1,8 @@
+Project: PublicViewer
+Purpose: Display contents of selected file in specific way customized by user
+Input: Mouse and context menu
+Supports: Text and Binary file formats
+User-requirements: Patience
+Lunch-mode1: pvr from terminal
+Lunch-mode2: java -classpath %CP1% mydev.pvr.PvrLunch from dev-terminal
+Lunch-mode3: provided Shortcut

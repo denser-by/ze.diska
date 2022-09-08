@@ -1,0 +1,10 @@
+A>
+java mydev.net.Finish 192.168.1.11 "Meow 123" 
+B>
+java mydev.net.Finish 192.168.1.11 "Meow 111" 
+C>
+java mydev.net.Finish 192.168.1.12 "Meow 321" 
+D>
+java mydev.net.Finish 169.254.234.244 "kdsjflkj" 
+A=C-B..D?
+<Enter>*

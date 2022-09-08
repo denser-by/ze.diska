@@ -1,9 +1,9 @@
 package mydev.lezka;
- import java.io.File;
+import java.io.File;
  import java.io.FileInputStream;
  import java.io.FileOutputStream;
  import java.io.IOException;
-import mydev.vutils.Spiska;
+ import mydev.vutils.Spiska;
  public class LezKa {
  public LezKa() {
 }
@@ -23,32 +23,38 @@ import mydev.vutils.Spiska;
  int cur=0;
  int PAGE_SIZE=pgSz;
  MyBuf page=new MyBuf(mode);
+ boolean janna=12 > 14;
+ if(janna)
  System.out.print("----------------------------------------------------------\n");
+ else System.out.print("----------------------------------------------------------");
  char LN='\n';
  char RT='\r';
  byte bLN=(byte) LN;
  byte bRT=(byte) RT;
- int rowNum=1;
- int lineNo=1;
- page.appendLineNo(lineNo);
+ int rwNum=0;
+ int lineNo=1-1;
+// int bilinear=1;
+ page.appendLineNo(++lineNo);
  while(cur < content.length) {
  byte b=content[cur++];
  if(b == bRT)
  continue;
  if(b == bLN)
 {
- if(rowNum++ == PAGE_SIZE)
+rwNum=rwNum+1;
+ if(rwNum == PAGE_SIZE)
 {
  page.append('-').append('>');
  lz.show(page.toString());
+//System.out.print("kijja");
  page.setLength(0);
- rowNum=1;
+ rwNum=0;
  lz.next();
  page.appendLineNo(++lineNo);
  continue;
 }
  else {
- page.append('-').append('>').append('\n');
+ page.append('-').append('>');
  page.appendLineNo(++lineNo);
  continue;
 }
@@ -61,26 +67,30 @@ import mydev.vutils.Spiska;
 {
  lz.show(rest);
 }
- }
+}
  catch(IOException e) {
  System.out.println("Err:"+e.getMessage());
 }
 }
  public void next() throws IOException {
- int avail=System.in.available();
- System.in.mark(100);
+ int avail=0-1;
+ byte[] taran=new byte[999];
+ try {
+ System.in.reset();
+}
+ catch(IOException ex) {
+ ex.getMessage();
+}
  boolean here=true;
  while(here) {
- if(avail != System.in.available())
-{
+ avail=System.in.read(taran);
+ if(avail > 0)
  here=false;
- System.in.reset();
- System.in.skip(100);
-}
  try {
  Thread.sleep(199);
 }
- catch(Throwable th) {
+ catch(InterruptedException ex) {
+ ex.getMessage();
 }
 }
 }
@@ -91,6 +101,7 @@ import mydev.vutils.Spiska;
  catch(Throwable th) {
 }
  System.out.print(page);
+//System.out.print("kijja2");
 }
  public byte[] read(String fPath) throws IOException {
  File fOpen=new File(fPath);
@@ -204,6 +215,7 @@ import mydev.vutils.Spiska;
 }
  public void appendLineNo(int lineNo) {
  String str=getLine(lineNo);
+ append2((char) 0x0A);
  for(int i=0; i < str.length(); i++)
 {
  char ch=str.charAt(i);

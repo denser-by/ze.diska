@@ -1,0 +1,5 @@
+files= Wrng1.java Reg.class FilterPanel.class MyReport.class Rec.class LunchPanel.class Wrng1.class trace.bat zetupka 
+mezto= F:/mydev/wrg/ 
+
+files= trace.bat 
+mezto= F:/bin/ 

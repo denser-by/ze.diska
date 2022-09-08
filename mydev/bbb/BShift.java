@@ -1,0 +1,1 @@
+package mydev.bbb; public class BShift { short dx,dy; public BShift(short x,short y) { this.dx=x; this.dy=y;} public String toString() { return "("+dx+","+dy+")";}}

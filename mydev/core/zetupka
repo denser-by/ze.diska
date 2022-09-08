@@ -1,0 +1,10 @@
+files= BitmapData.class BulkX.class BulkXYZ.class BulkY.class BulkZ.class CanvasX.class Combo.class Combo.java Cube3D.class CubeDisplayType.class Drawer.class Drawing.class Estimate.class LogCat.class Moving.class Object3D.class ObjPropertySet.class Picture.class Plane.class Plane2D.class Point2D.class Point3D.class Presska.class SceneContext.class Settings.class SettingsPanel.class StripeX.class StripeY.class StripeZ.class Vect3D.class Velocity.class Vertex.class View3D.class zetupka
+
+mezto= E:/mydev/core/
+
+
+
+files= combo.bat
+
+mezto= E:/bin/ 
+

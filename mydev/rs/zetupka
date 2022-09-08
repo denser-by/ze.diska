@@ -1,0 +1,5 @@
+files= Context.class Eskeypar.class Metrics.class MyPanel.class Order.class Pozishen.class rs.bat RunnnerS.class RunnnerS.java Watcher.class zetupka 
+mezto= F:/mydev/rs/ 
+
+files= rs.bat 
+mezto= F:/bin/ 
