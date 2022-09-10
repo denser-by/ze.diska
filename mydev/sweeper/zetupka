@@ -1,0 +1,5 @@
+files= AbstractCombachTask.class AllRightExtensionItemsPanel.class Ask2.class BcSweeperController.class Combach.class Combach.java CombachAnimation.class CombachAnimationFrame.class CombachAnimationFrameFirst.class CombachAnimationFrameSecond.class CombachLogging.class CombachLogItem.class CombachLogPanel.class CombachPathPanel.class CommandExtQueue.class DeleteAllPanel.class DeleteAllRightTask.class ExtCommand.class ExtensionItemsPanel.class ExtensionRecord.class ExtStatInfoPanel.class ExtStatParallelPanel.class ExtStatProcessor.class FishFullness.class ForceDel.class LeftExtensionPanel.class LeftForceDelPanel.class LeftSizeForceDelExtensionPanel.class Logo.class LongSweeperDemoContinueTermCtrl.class ProgressCombachBar.class ProgressCombachChecker.class Props.class ReadExtCommand.class ReadyFreeHolder.class RightExtensionSizeBtnPanel.class ScanExtensionsLeft.class ScanItemsRight.class SizeExtensionPanel.class Splitter.class StatExtensionPanel.class sweeper.bat Sweeper.class Sweeper.java Sweeper2.class SweeperAutoBtnFrame.class SweeperProcTask.class WorkingCombachHolder.class zetupka 
+mezto= D:/mydev/sweeper/ 
+
+files= sweeper.bat 
+mezto= D:/bin/ 
