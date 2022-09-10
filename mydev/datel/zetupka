@@ -1,8 +1,0 @@
-files=  
-mezto= d:/mydev/datel/ 
-EE
-files= datel.bat 
-mezto= d:bin/ 
-EE
-19
- Checker.class Checker.java ChtoTa.class GdeTa.class Getter.class Item.class Parser.class Parser.java pr.bat Row.class Setter.class ShtuKo.class Table.class te.bat test1.out test2.out test5.out test6.out zetupka

@@ -1,0 +1,1 @@
+package mydev.uix; public interface AbstractApproachProvider { AbstractApproach provideApproach();}
