@@ -1,5 +1,3 @@
-files= AbstractApproach.class AbstractApproach.java AbstractApproachProvider.class AbstractApproachProvider.java AbstractParallelPanel.class AbstractParallelPanel.java AmountPanel.class AmountPanel.java AveragePanel.class AveragePanel.java CommonPathPanel.class CommonPathPanel.java ControlsPanel.class ControlsPanel.java IgnorePanel.class IgnorePanel.java SizePanel.class SizePanel.java StopIgnorePanel.class ToogleMultyButton.class ToogleMultyButton.java YellowAutoButton.class YellowAutoButton.java zetupka 
+files= AbstractApproach.class AbstractApproach.java AbstractApproachProvider.class AbstractApproachProvider.java AbstractParallelPanel.class AbstractParallelPanel.java AmountPanel.class AmountPanel.java AveragePanel.class AveragePanel.java CommonPathPanel.class CommonPathPanel.java ControlsPanel.class ControlsPanel.java IgnorePanel.class IgnorePanel.java ProgressBar.class ProgressBar.java ProgressChecker.class ProgressChecker.java SizePanel.class SizePanel.java StopIgnorePanel.class ToogleMultyButton.class ToogleMultyButton.java YellowAutoButton.class YellowAutoButton.java zetupka 
 mezto= D:/mydev/uix/ 
 
-files= uix.bat 
-mezto= D:/bin/ 

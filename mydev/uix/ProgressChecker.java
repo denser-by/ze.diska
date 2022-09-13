@@ -1,0 +1,1 @@
+package mydev.uix; public interface ProgressChecker { short getCompleteProgress(); boolean isComplete();}
