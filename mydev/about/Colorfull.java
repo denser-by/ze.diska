@@ -1,0 +1,1 @@
+package mydev.about; public abstract class Colorfull implements Pencil { protected int color; public Colorfull(int color) { this.color=color;} public Colorfull(Color color) { this.color=color.rgb();} public int getColor() { return color;} public void setColor(int color) { this.color=color;}}
