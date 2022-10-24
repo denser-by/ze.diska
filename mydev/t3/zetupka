@@ -1,8 +1,5 @@
-files= BitmapData.class CanvasX.class Colors.class Cube3D.class Dis.class DrawHelper.class GamePack.class GamePack.java LightM.class LogCat.class Moving.class Picture.class Presska.class Rect.class RedisKa.class Results.class ResultsCube.class ResultsOxyz.class Scene3D.class Settings.class SqProj.class t3.bat TransparencyProfile.class TreeSource.class View3D.class WorkingHolder.class zetupka 
-mezto= E:/mydev/t3/ 
+files= BitmapData.class CanvasX.class Dis.class DrawHelper.class GamePack.class GamePack.java GpAutoScanIt.class ItPanel.class LightM.class LogCat.class Logo.class PathPanel.class Picture.class Plane.class PlaneBack.class PlaneBottom.class PlaneFrame.class PlaneFront.class PlaneLeft.class PlaneRepo.class PlaneRight.class PlaneTop.class ProjectionsRepo.class Props.class RedisKa.class Results.class ResultsCube.class ResultsOxyz.class ResultsWalls.class ScanCube.class ScanLine.class ScanLineHorIterator.class ScanLineVertIterator.class Scene3D.class Settings.class SqProj.class t3.bat T3Animation.class T3AnimationFrame.class T3AnimationFrameFirst.class T3AnimationFrameSecond.class TransparencyProfile.class TreeSource.class View3D.class Wall.class WallDown.class WallFar.class WallLeft.class WallNear.class WallPicture.class WallRight.class WallUp.class WorkingProcedureHolder.class zetupka 
+mezto= D:/mydev/t3/ 
 
 files= t3.bat 
-mezto= E:/bin/ 
-
-
- 
+mezto= D:/bin/ 
