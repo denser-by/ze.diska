@@ -1,0 +1,1 @@
+package mydev.about; import java.util.Enumeration; public interface Decompose { Enumeration ribsIterator(); Enumeration verticesIterator(); Enumeration planesIterator();}
