@@ -1,0 +1,1 @@
+package mydev.about; public interface Turner { void turnAroundX(float dtAngleX); void turnAroundY(float dtAngleY); void turnAroundZ(float dtAngleZ); void turnStartX(float angleX); void turnStartY(float angleY); void turnStartZ(float angleZ); float getAngleX(); float getAngleY(); float getAngleZ();}
