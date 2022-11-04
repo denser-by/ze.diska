@@ -1,0 +1,1 @@
+package mydev.cs; import mydev.about.Canvas; import mydev.about.Paint; public interface SeeDifferent { void particularDrawing(Canvas ics,Paint pn);}
