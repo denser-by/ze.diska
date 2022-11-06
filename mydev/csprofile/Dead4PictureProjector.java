@@ -1,0 +1,1 @@
+package mydev.csprofile; import mydev.about.Canvas; import mydev.about.FourCornersConture2D; import mydev.about.Paint; import mydev.about.Picture; public interface Dead4PictureProjector { void leftWife(Canvas ics,Paint pn,Picture target,FourCornersConture2D conture,boolean turnBack);}
