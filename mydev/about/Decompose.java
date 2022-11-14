@@ -1,1 +1,1 @@
-package mydev.about; import java.util.Enumeration; public interface Decompose { Enumeration ribsIterator(); Enumeration verticesIterator(); Enumeration planesIterator();}
+package mydev.about; public interface Decompose { Line3D[] ribs(); Line2D[] ribsProjections(); Point3D[] vertices(); Point2D[] verticesProjections(); Triangle3D[] planes(); Triangle2D[] planesProjections();}
