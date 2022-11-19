@@ -1,0 +1,1 @@
+package mydev.perceptron; import mydev.vutils.Ester; public class ClassificationProbe { protected byte[] data; public ClassificationProbe(byte[] data) { super(); this.data=data;} public byte[] getData() { return data;} public String represent() { return new Ester("").append(data).toString();}}
