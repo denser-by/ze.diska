@@ -1,0 +1,1 @@
+package mydev.about; public interface Plane3Scanner { Point3D getCenter3D(); int xMin(); int xMax(); int yMin(); int yMax(); int zMin(); int zMax(); Plane3D getPlaneCenterZ(); Plane3D getPlaneCenterY(); Plane3D getPlaneCenterX(); Plane3D getPlaneZ(int z); Plane3D getPlaneY(int y); Plane3D getPlaneX(int x);}
