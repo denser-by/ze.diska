@@ -1,0 +1,1 @@
+package mydev.perceptron; public interface InputProvider { float getValue();}
