@@ -1,0 +1,1 @@
+package mydev.uix; public interface LoggingVkusnjashki { void addLog(String item); void addLogComplete(String item); LoggingVkusnjashki getLogging(); void addLog2(String item);}

@@ -1,0 +1,1 @@
+package mydev.uix; public interface LongTermCtrl { boolean hasLongTermContin();}
