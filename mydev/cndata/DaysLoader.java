@@ -1,0 +1,1 @@
+package mydev.cndata; public class DaysLoader { public void loadDays() { new DailyObservationTwentyThird();}}
