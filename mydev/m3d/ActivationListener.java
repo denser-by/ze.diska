@@ -1,0 +1,1 @@
+package mydev.m3d; public interface ActivationListener { void onActivate(VertEx3D obj); void onDeactivate(VertEx3D obj);}
