@@ -1,0 +1,1 @@
+package mydev.m3d; public interface RedrawableScene { void markNeedsRedraw(); boolean peekRedrawFlag();}
