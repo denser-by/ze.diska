@@ -1,1 +1,1 @@
-package mydev.cndata; public class DaysLoader { public void loadDays() { new DailyObservationEleventh(); new DailyObservationForth(); new DailyObservationSeventh(); new DailyObservationTwentyThird();}}
+package mydev.cndata; public class DaysLoader { public void loadDays() { new DailyObservationSixteenth(); new DailyObservationEleventh(); new DailyObservationForth(); new DailyObservationSeventh(); new DailyObservationTwentyThird();}}
