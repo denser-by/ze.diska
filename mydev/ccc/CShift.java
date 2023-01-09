@@ -1,0 +1,1 @@
+package mydev.ccc; public class CShift { short dx,dy; public CShift(short x,short y) { this.dx=x; this.dy=y;} public String toString() { return "("+dx+","+dy+")";}}
