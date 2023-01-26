@@ -1,0 +1,1 @@
+package mydev.uix; public interface UpdateConsumer { void consume(String item);}
