@@ -1,1 +1,98 @@
-package mydev.csprofile; public class VisibilityProfile { private boolean wallFar; private boolean wallTop; private boolean wallRight; private boolean wallDown; private boolean wallLeft; private boolean wallFront; public VisibilityProfile() { this(true,true,true,true,true,true);} public VisibilityProfile(boolean wallFar,boolean wallTop,boolean wallRight,boolean wallDown,boolean wallLeft,boolean wallFront) { super(); this.wallFar=wallFar; this.wallTop=wallTop; this.wallRight=wallRight; this.wallDown=wallDown; this.wallLeft=wallLeft; this.wallFront=wallFront;} public boolean isWallFar() { return wallFar;} public VisibilityProfile buildFarSide(boolean wallFar) { this.wallFar=wallFar; return this;} public boolean isWallTop() { return wallTop;} public VisibilityProfile buildWallUp(boolean wallTop) { this.wallTop=wallTop; return this;} public boolean isWallRight() { return wallRight;} public VisibilityProfile buildWallRight(boolean wallRight) { this.wallRight=wallRight; return this;} public boolean isWallDown() { return wallDown;} public VisibilityProfile buildWallDown(boolean wallDown) { this.wallDown=wallDown; return this;} public boolean isWallLeft() { return wallLeft;} public VisibilityProfile buildWallLeft(boolean wallLeft) { this.wallLeft=wallLeft; return this;} public boolean isWallNear() { return wallFront;} public VisibilityProfile buildNearSide(boolean wallFront) { this.wallFront=wallFront; return this;} public static VisibilityProfile inVisibility() { return new VisibilityProfile().buildFarSide(false).buildWallLeft(false).buildWallUp(false).buildWallRight(false).buildWallDown(false).buildNearSide(false);} public String toString() { return "VisibilityProfile [wallFar="+wallFar+", wallTop="+wallTop+", wallRight="+wallRight+", wallDown="+wallDown+", wallLeft="+wallLeft+", wallFront="+wallFront+"]";}}
+package mydev.csprofile;
+
+public final class VisibilityProfile {
+	private boolean farSide;
+	private boolean wallTop;
+	private boolean rightSide;
+	private boolean wallDown;
+	private boolean leftSide;
+	private boolean frontSide;
+
+	public static VisibilityProfile create() {
+		return new VisibilityProfile();
+	}
+
+	protected VisibilityProfile() {
+		super();
+	}
+
+	public boolean isFar() {
+		return farSide;
+	}
+
+	public VisibilityProfile farSide(boolean farSide) {
+		this.farSide = farSide;
+		return this;
+	}
+
+	public boolean isTop() {
+		return wallTop;
+	}
+
+	public VisibilityProfile wallTop(boolean wallTop) {
+		this.wallTop = wallTop;
+		return this;
+	}
+
+	public boolean isRight() {
+		return rightSide;
+	}
+
+	public VisibilityProfile rightSide(boolean rightSide) {
+		this.rightSide = rightSide;
+		return this;
+	}
+
+	public boolean isDown() {
+		return wallDown;
+	}
+
+	public VisibilityProfile wallDown(boolean wallDown) {
+		this.wallDown = wallDown;
+		return this;
+	}
+
+	public boolean isLeft() {
+		return leftSide;
+	}
+
+	public VisibilityProfile leftSide(boolean leftSide) {
+		this.leftSide = leftSide;
+		return this;
+	}
+
+	public boolean isFront() {
+		return frontSide;
+	}
+
+	public VisibilityProfile frontSide(boolean frontSide) {
+		this.frontSide = frontSide;
+		return this;
+	}
+
+	public VisibilityProfile visible() {
+		this.farSide = true;
+		this.wallTop = true;
+		this.rightSide = true;
+		this.wallDown = true;
+		this.leftSide = true;
+		this.frontSide = true;
+		return this;
+	}
+
+	public VisibilityProfile inVisibility() {
+		this.farSide = false;
+		this.wallTop = false;
+		this.rightSide = false;
+		this.wallDown = false;
+		this.leftSide = false;
+		this.frontSide = false;
+		return this;
+	}
+
+	public String toString() {
+		return "VisibilityProfile [farSide=" + farSide + ", wallTop=" + wallTop
+				+ ", rightSide=" + rightSide + ", wallDown=" + wallDown
+				+ ", leftSide=" + leftSide + ", frontSide=" + frontSide + "]";
+	}
+}
