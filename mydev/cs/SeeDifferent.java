@@ -1,1 +1,1 @@
-package mydev.cs; import mydev.about.Canvas; import mydev.about.Matrix2D; import mydev.about.Paint; public interface SeeDifferent { void particularDrawing(Matrix2D matrix); void particularDrawing(Canvas ics,Paint pn);}
+package mydev.cs; import mydev.about.CanvasAdapter; import mydev.about.Matrix2D; import mydev.about.PaintAdapter; public interface SeeDifferent { void particularDrawing(Matrix2D matrix); void particularDrawing(CanvasAdapter ics,PaintAdapter pn);}

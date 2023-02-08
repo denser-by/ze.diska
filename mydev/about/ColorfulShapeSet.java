@@ -24,7 +24,7 @@ public final class ColorfulShapeSet extends Colorfull {
 			qItemsArray[i].represent(matrix);
 	}
 
-	public void toPen(Canvas ics, Paint pn) {
+	public void toPen(CanvasAdapter ics, PaintAdapter pn) {
 		if (qItemsArray.length != qItems.sizeOfQueue())
 			copyQueue();
 		for (int i = 0; i < qItemsArray.length; i++) {

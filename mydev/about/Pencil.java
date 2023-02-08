@@ -1,1 +1,1 @@
-package mydev.about; public interface Pencil { void represent(Matrix2D matrix); void toPen(Canvas ics,Paint pn);}
+package mydev.about; public interface Pencil { void represent(Matrix2D matrix); void toPen(CanvasAdapter ics,PaintAdapter pn);}
