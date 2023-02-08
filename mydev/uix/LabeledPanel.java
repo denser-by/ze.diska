@@ -7,9 +7,10 @@ import java.awt.Font;
 import java.awt.FontMetrics;
 import java.awt.Graphics;
 import java.awt.Panel;
-import mydev.about.Canvas;
+
+import mydev.about.CanvasAdapter;
 import mydev.about.Line2D;
-import mydev.about.Paint;
+import mydev.about.PaintAdapter;
 import mydev.about.Point2D;
 import mydev.about.Vector3;
 
@@ -194,7 +195,7 @@ class NorthCanvas extends BorderCanvas {
 		return font2;
 	}
 
-	protected void drawItems(Canvas ics, Paint pn) {
+	protected void drawItems(CanvasAdapter ics, PaintAdapter pn) {
 		line.toPen(ics, pn.select(line));
 		Vector3.DY1m.getShiftedCopy(line).toPen(ics, pn);
 		line2.toPen(ics, pn.select(line2));
@@ -265,7 +266,7 @@ class SouthCanvas extends BorderCanvas {
 		super(minSize, bgColor, borderColor);
 	}
 
-	protected void drawItems(Canvas ics, Paint pn) {
+	protected void drawItems(CanvasAdapter ics, PaintAdapter pn) {
 		line.toPen(ics, pn.select(line));
 		Vector3.DY1.getShiftedCopy(line).toPen(ics, pn);
 		line2.toPen(ics, pn.select(line2));
@@ -297,7 +298,7 @@ class EastCanvas extends BorderCanvas {
 		super(minSize, bgColor, borderColor);
 	}
 
-	protected void drawItems(Canvas ics, Paint pn) {
+	protected void drawItems(CanvasAdapter ics, PaintAdapter pn) {
 		line.toPen(ics, pn.select(line));
 		Vector3.DX1.getShiftedCopy(line).toPen(ics, pn);
 	}
@@ -317,7 +318,7 @@ class WestCanvas extends BorderCanvas {
 		super(minSize, bgColor, borderColor);
 	}
 
-	protected void drawItems(Canvas ics, Paint pn) {
+	protected void drawItems(CanvasAdapter ics, PaintAdapter pn) {
 		line.toPen(ics, pn.select(line));
 		Vector3.DX1m.getShiftedCopy(line).toPen(ics, pn);
 	}
