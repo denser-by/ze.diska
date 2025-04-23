@@ -1,6 +1,4 @@
 package mydev.aaa;
-
-
 public class Shorty {
 public Shorty() {  }
 public short ext(short a) { return (short)(a + 1); }

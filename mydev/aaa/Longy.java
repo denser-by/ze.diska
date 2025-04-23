@@ -1,6 +1,4 @@
 package mydev.aaa;
-
-
 public class Longy {
 public Longy() {  }
 public long ext(short a) { return (long)(a + 1); }
