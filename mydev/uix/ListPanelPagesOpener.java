@@ -1,0 +1,1 @@
+package mydev.uix; public interface ListPanelPagesOpener { void openFirstPage(); void openLastPage(); void openNextPage(); void openPrevPage();}
