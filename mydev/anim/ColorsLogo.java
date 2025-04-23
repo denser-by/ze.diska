@@ -1,0 +1,1 @@
+package mydev.anim; import mydev.uix.Animation; import mydev.uix.CommonLogo; import mydev.uix.Props; public class ColorsLogo extends CommonLogo { public ColorsLogo() { super(Props.animationSize,Props.animationSize);} protected Animation obtainAnimation() { return ColorsAnimation.createDefault();}}

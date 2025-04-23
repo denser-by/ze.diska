@@ -1,0 +1,1 @@
+package mydev.anim; import mydev.uix.AnimationFrame; abstract class ColorsAnimationFrame extends AnimationFrame { protected int getWidth() { return 50;} protected int getHeight() { return 83;}}
