@@ -1,6 +1,4 @@
 package mydev.aaa;
-
-
 public class Inta {
 public Inta() {  }
 public int ext(short a) { return (int)(a + 1); }

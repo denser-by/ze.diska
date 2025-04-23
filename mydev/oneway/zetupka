@@ -1,8 +1,5 @@
-files=  
-mezto= d:/mydev/oneway/ 
-EE
+files= one.log oneway.bat OneWay.class OneWay.java rrrr zetupka 
+mezto= D:/mydev/oneway/ 
+
 files= oneway.bat 
-mezto= d:bin/ 
-EE
-3
- OneWay.class OneWay.java zetupka
+mezto= D:/bin/ 
