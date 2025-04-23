@@ -1,0 +1,1 @@
+package mydev.csprofile; import mydev.about.Rectangle2D; public interface RoomConsumer { AbstractRoomSixWalls roomSvc(int width,int height); Rectangle2D obtainAreaWnd(int width,int height); int getSPS(); int getZ0(); int getDepth();}

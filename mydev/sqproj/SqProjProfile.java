@@ -1,0 +1,1 @@
+package mydev.sqproj; public interface SqProjProfile { boolean isStripeX(); boolean isStripeY(); boolean isStripeZ(); boolean isBulkX(); boolean isBulkY(); boolean isBulkZ(); boolean isProjLeftX(); boolean isProjRightX(); boolean isProjUpY(); boolean isProjDownY(); boolean isProjFarZ(); boolean isProjNearZ();}
