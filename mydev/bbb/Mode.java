@@ -1,0 +1,1 @@
+package mydev.bbb; public class Mode { public static final Mode EXT=new Mode(1,"external"); public static final Mode INT=new Mode(1+1,"internal"); public static final Mode INT3D=new Mode(1+1+1,"I3D"); private int id; private String name; private Mode(int id,String name) { this.id=id; this.name=name;} public int getId() { return id;} public String getName() { return name;}}
