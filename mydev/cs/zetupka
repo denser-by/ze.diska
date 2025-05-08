@@ -1,2 +1,3 @@
 files= Bounds.class Bounds.java ConturePlane.class ConturePlane.java ContureWall.class ContureWall.java LinesPlane.class LinesPlane.java LinesWall.class LinesWall.java PicturePlane.class PicturePlane.java PictureWall.class PictureWall.java PlanesProfile.class PlanesProfile.java PlaneType.class PlaneType.java SeeDifferent.class SeeDifferent.java SolidColorPlane.class SolidColorPlane.java SolidColorWall.class SolidColorWall.java WallsProfile.class WallsProfile.java zetupka 
-mezto= D:/mydev/cs/ 
+mezto= E:/mydev/cs/ 
+

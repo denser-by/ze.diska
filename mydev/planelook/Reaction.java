@@ -1,1 +1,1 @@
-package mydev.planelook; public interface Reaction { void toTop(); void toBottom(); void toLeft(); void toRight();}
+package mydev.planelook; public interface Reaction { void toTop(); void toBottom(); void toLeft(); void toRight(); void toForward(); void toBackward();}
