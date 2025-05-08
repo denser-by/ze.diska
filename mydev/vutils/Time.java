@@ -42,6 +42,7 @@ public Ester vse() {
  return hrs().append('_').append(min()).append('_').append(sec());
  }
 public Ester ess() {
-return hrs().append('_').append((t2-t1)/1000L/60L - ((t2-t1)/1000L/60L/60L)*60L) .append("m_").append((t2-t1)/1000L - ((t2-t1)/1000L/60L)*60L).append('s');
+return hrs().append('_').append((t2-t1)/1000L/60L - ((t2-t1)/1000L/60L/60L)*60L
+) .append("m_").append((t2-t1)/1000L - ((t2-t1)/1000L/60L)*60L).append('s');
 }
 }

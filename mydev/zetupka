@@ -1,8 +1,0 @@
-files=  
-mezto= d:/mydev/mydev/ 
-EE
-files= mydev.bat 
-mezto= d:bin/ 
-EE
-9
- .gitignore ./aaa\ ./ava\ ./classes\ ./lezka\ ./oline\ ./oneway\ ./vutils\ zetupka

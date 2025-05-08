@@ -1,0 +1,1 @@
+package mydev.planelook; public class Ut { private int s; private int e; public Ut(int s,int e) { super(); this.s=s; this.e=e;} public int s() { return s;} public int e() { return e;} public String toString() { return "["+s+", "+e+"]";}}

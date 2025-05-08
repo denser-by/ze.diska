@@ -1,1 +1,4 @@
-package mydev.aaa; public interface Stop { void ka();}
+package mydev.aaa;
+public interface Stop {
+void ka();
+}

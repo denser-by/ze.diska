@@ -1,0 +1,1 @@
+package mydev.planelook; public interface Reaction { void toTop(); void toBottom(); void toLeft(); void toRight();}

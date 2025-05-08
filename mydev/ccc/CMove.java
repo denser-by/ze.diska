@@ -1,0 +1,1 @@
+package mydev.ccc; public interface CMove { void in(CShift hi); void out();}

@@ -1,5 +1,0 @@
-files= Anomaly.class Field.class Galochka.class INFO MyBits.class mybits.d8b MyBits.java Paralel.class Rest.class talented.bat Worker.class zetupka 
-mezto= E:/mydev/d8b/ 
-
-files= talented.bat 
-mezto= E:/bin/ 

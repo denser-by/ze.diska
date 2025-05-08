@@ -1,0 +1,1 @@
+package mydev.perceptron; public interface NeuronicNode { void addIncomingNode(NeuronicNode neuronicNode); void addIncomingNode(NeuronicNode neuronicNode,float particularMult); short sizeOfNode(); float processSignal(); ClassificationResult getResult(); void initClearState();}

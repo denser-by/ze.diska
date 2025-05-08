@@ -1,0 +1,1 @@
+package mydev.perceptron; abstract class ResultlessNeuronicNode extends CommonNeuronicNode { public static final ClassificationResult LEFT_RESULT=null; protected ResultlessNeuronicNode() { super();} public ClassificationResult getResult() { return LEFT_RESULT;}}

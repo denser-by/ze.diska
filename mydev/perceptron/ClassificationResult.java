@@ -1,0 +1,1 @@
+package mydev.perceptron; public interface ClassificationResult { boolean getAnswer(); long getParticipantMatrixIndex();}

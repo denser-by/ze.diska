@@ -1,8 +1,5 @@
-files=  
-mezto= d:/mydev/oline/ 
-EE
+files= oline.bat oneline.bat OneLine.class OneLine.java rrrr zetupka 
+mezto= D:/mydev/oline/ 
+
 files= oline.bat 
-mezto= d:bin/ 
-EE
-3
- OneLine.class OneLine.java zetupka
+mezto= D:/bin/ 
