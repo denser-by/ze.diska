@@ -1,5 +1,5 @@
-files= CenterPunk.class ClOknoView.class cn.bat Cortege.class CtrlsPanel.class DaysPanel.class External3DPanel.class FieldCv.class ImagesPack.class ImagesPackController.class ImagesPackSet.class KinDi3.class OknoFrame.class OknoIntViewKadr.class OknoIntWrap.class OknoManagerAbstract.class OknoManagerException.class OknoManagerExternal.class OknoManagerInternal.class OknoRelation.class OknosCtrl.class OknosCtx.class OknosManager.class OknoViewEmptyKadr.class OknoWrap.class PanelClPath.class PanelDays.class PanelSettings.class ParserVisualAdapter.class ParserWithPaletteVisualAdapter.class Props.class ReverseMassAuto.class ShiftType.class StartStopPanel.class StatPanel.class Teaching.class Teaching.java VisualImageFile.class VisualImageFileException.class WorkingVisualHolder.class zetupka 
-mezto= D:/mydev/cn/ 
+files= AbstractInternalKadr.class ClOknoManager.class ClOknoView.class ClOknoView3D.class cn.bat Cortege.class DaySelectAmountPanel.class DaySelectSizePanel.class DaysExt3DCtrlsPanel.class FieldCv.class ImagesPack.class ImagesPackSet.class LoggingTeaVkusnjashkiStub.class OknoFrame.class OknoIntViewKadr.class OknoIntViewKadr3D.class OknoIntWrap.class OknoIntWrap3D.class OknoManagerAbstract.class OknoManagerException.class OknoManagerExternal.class OknoManagerInternal.class OknoManagerInternal3D.class OknoRelation.class OknosCtx.class OknosManager.class OknoViewEmptyKadr.class OknoWrap.class PanelClPath.class PanelDays.class ShiftType.class SizeCtrlsPanel.class SizeUpdateListener.class StatCnPanel.class Teaching.class Teaching.java TeaPagesPanel.class TeaProps.class TeaRightPanel.class zetupka 
+mezto= E:/mydev/cn/ 
 
 files= cn.bat 
-mezto= D:/bin/ 
+mezto= E:/bin/ 

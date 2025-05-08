@@ -1,0 +1,5 @@
+files= ColorsAnimation.class ColorsAnimation.java ColorsAnimationFrame.class ColorsAnimationFrame.java ColorsAnimationFrameFirst.class ColorsAnimationFrameFirst.java ColorsAnimationFrameSecond.class ColorsAnimationFrameSecond.java ColorsLogo.class ColorsLogo.java zetupka 
+mezto= E:/mydev/anim/ 
+
+files= anim.bat 
+mezto= E:/bin/ 

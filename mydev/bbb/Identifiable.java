@@ -1,0 +1,1 @@
+package mydev.bbb; public interface Identifiable { boolean checkWndId(String wndId);}
