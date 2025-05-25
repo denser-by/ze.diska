@@ -1,5 +1,5 @@
 files= BrokenResult.class ClassificationProbe.class ClassificationProbe.java ClassificationResult.class ClassificationResult.java CommonNeuronicNode.class CommonNeuronicNode.java InputProvider.class InputProvider.java InputProviderConfig.class LearningItem.class LookRegistry.class NeuronicNode.class NeuronicNode.java NeuronicWrap.class NodeInput.class NodeInput.java NodeIntermediate.class NodeIntermediate.java NodeResultingOutput.class NodeResultingOutput.java Perceptronic.class Perceptronic.java PerceptronicAbstract.class PerceptronicAbstract.java RegisteredLook.class RegisteredResult.class ResultlessNeuronicNode.class ResultlessNeuronicNode.java SimmetricooltronP5.class SimmetricooltronP5.java SimmetricooltronP5InputProviderFirst.class SimmetricooltronP5InputProviderSecond.class zetupka 
-mezto= E:/mydev/perceptron/ 
+mezto= D:/mydev/perceptron/ 
 
 files= perceptron.bat 
-mezto= E:/bin/ 
+mezto= D:/bin/ 
